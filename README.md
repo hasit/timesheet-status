@@ -8,6 +8,12 @@ If you are a student employee on any UW campus and check Employee Self-Service (
 
 As you can see from the screenshot, **timesheet-status** shows the correct status right in your menubar with a pretty little icon.
 
+## Installation
+
+- [Mac OSX](https://github.com/hasit/timesheet-status/releases/download/v1.0.0/timesheet-status-darwin.app.zip)
+- [Windows 64 bit](https://github.com/hasit/timesheet-status/releases/download/v1.0.0/timesheet-status-win32-x64.exe)
+- Windows 32 bit - Clone the repository and run the '/timesheet-status-win32-ia32/timesheet-status.exe' executable.
+
 ## Contribution
 
 Following is a list of features I'd like to add going forward. If you happen to implement any of these (or more), send out a PR and I will be more than happy to merge the changes.
