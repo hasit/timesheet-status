@@ -16,7 +16,7 @@ As you can see from the screenshot, **timesheet-status** shows the correct statu
 
 ## Contribution
 
-Following is a list of features I'd like to add going forward. If you happen to implement any of these (or more), send out a PR and I will be more than happy to merge the changes.
+Following is a list of features I'd like to add going forward. If you happen to implement any of these or find an issue, send out a PR and I will be more than happy to merge the changes.
 
 - [ ] Add 'Refresh' in contextMenu to manually refresh the status.
 - [ ] Auto-refresh in default (say 10 minutes) internal.
@@ -28,3 +28,4 @@ Following is a list of features I'd like to add going forward. If you happen to 
 - Icon made by [freepik](http://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com).
 - [Electron](http://electron.atom.io) for making the cross-platform app.
 - [cheerio](https://github.com/cheeriojs/cheerio) for reading HTML.
+- This application is in no way related to UW. This is my personal project to ease my workflow. It was hacked together in one sleepless night (literally).
