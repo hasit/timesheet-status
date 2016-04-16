@@ -2,11 +2,9 @@
 
 Check your ESS timesheet status with ease from your menubar.
 
-If you are a student employee on any UW campus and check Employee Self-Service (ESS) at MyUW regularly to see if and when you'll be receiving that next fat paycheck, this is the right app for you.
+If you are a student employee on any UW campus and check Employee Self-Service (ESS) at MyUW regularly to see if and when you'll be receiving that next fat paycheck, this is the right app for you. As you can see from the screenshot, **timesheet-status** shows the correct status right in your menubar with a pretty little icon.
 
 ![timesheet-status app](assets/screenshot.png)
-
-As you can see from the screenshot, **timesheet-status** shows the correct status right in your menubar with a pretty little icon.
 
 ## Builds
 
