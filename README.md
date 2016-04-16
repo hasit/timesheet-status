@@ -16,3 +16,9 @@ Following is a list of features I'd like to add going forward. If you happen to 
 - [ ] Auto-refresh in default (say 10 minutes) internal.
 - [ ] Add 'Preferences' window to set Auto-refresh interval.
 - [ ] Add ability to see part timesheet statuses.
+
+## Credit
+
+- Icon made by [freepik](http://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com).
+- [Electron](http://electron.atom.io) for making the cross-platform app.
+- [cheerio](https://github.com/cheeriojs/cheerio) for reading HTML.
