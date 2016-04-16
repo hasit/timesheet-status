@@ -1,3 +1,9 @@
+# HTML file
+timesheet.html
+
+# Builds
+timesheet-status-*
+
 # Logs
 logs
 *.log
