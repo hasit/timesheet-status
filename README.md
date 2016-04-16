@@ -8,20 +8,29 @@ If you are a student employee on any UW campus and check Employee Self-Service (
 
 As you can see from the screenshot, **timesheet-status** shows the correct status right in your menubar with a pretty little icon.
 
-## Installation
+## Builds
 
 - [Mac OSX](https://github.com/hasit/timesheet-status/releases/download/v1.0.0/timesheet-status-darwin.app.zip)
 - [Windows 64 bit](https://github.com/hasit/timesheet-status/releases/download/v1.0.0/timesheet-status-win32-x64.exe)
-- Windows 32 bit - Clone the repository and run the '/timesheet-status-win32-ia32/timesheet-status.exe' executable.
+- [Windows 32 bit](https://github.com/hasit/timesheet-status/releases/download/v1.0.0/timesheet-status-win32-ia32.exe)
+- Linux - Since I do not have a Linux machine, this would be hard to work with. Check [issue 1](https://github.com/hasit/timesheet-status/issues/1) for more information on this.
 
-## Contribution
+## Development and Contribution
+
+1. Fork the repository
+2. Change working directory `cd timesheet-status`
+3. Install dependencies `npm install`
+4. Make changes
+5. Merge them into your forked repository
+6. Send pull request
+7. Repeat from step 2
 
 Following is a list of features I'd like to add going forward. If you happen to implement any of these or find an issue, send out a PR and I will be more than happy to merge the changes.
 
 - [ ] Add 'Refresh' in contextMenu to manually refresh the status.
 - [ ] Auto-refresh in default (say 10 minutes) internal.
 - [ ] Add 'Preferences' window to set Auto-refresh interval.
-- [ ] Add ability to see part timesheet statuses.
+- [ ] Add ability to see past timesheet statuses.
 
 ## Credit
 
