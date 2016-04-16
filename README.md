@@ -21,9 +21,10 @@ As you can see from the screenshot, **timesheet-status** shows the correct statu
 2. Change working directory `cd timesheet-status`
 3. Install dependencies `npm install`
 4. Make changes
-5. Merge them into your forked repository
-6. Send pull request
-7. Repeat from step 2
+5. Run the app 'npm start'
+6. Merge them into your forked repository
+7. Send pull request
+8. Repeat from step 2
 
 Following is a list of features I'd like to add going forward. If you happen to implement any of these or find an issue, send out a PR and I will be more than happy to merge the changes.
 
